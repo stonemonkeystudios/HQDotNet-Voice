@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MagicOnionVoice.Server": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
